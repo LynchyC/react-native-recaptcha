@@ -6,6 +6,12 @@ A react native wrapper for google recaptcha v3
 npm install --save react-native-recaptcha-v3
 ```
 
+## Requirements
+
+To use this library, you will need to have the `react-native-webview` dependency installed and linked in your project.
+
+Please follow the instructions provided [here](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
+
 ## Usage
 ```
 <ReCaptcha {...props} />
